@@ -1,2 +1,2 @@
-# Platformer-Game1
+# Platformer-Game-Ball
 3D Game - Unity
